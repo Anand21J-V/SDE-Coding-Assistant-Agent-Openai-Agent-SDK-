@@ -21,8 +21,8 @@ A powerful AI-powered coding assistant that helps streamline your development wo
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd sde-coding-assistant
+git clone https://github.com/Anand21J-V/SDE-Coding-Assistant-Agent-Openai-Agent-SDK-.git
+cd SDE-Coding-Assistant-Agent-Openai-Agent-SDK-
 ```
 
 ### 2. Install Dependencies
