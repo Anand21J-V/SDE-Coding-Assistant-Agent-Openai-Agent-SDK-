@@ -1,4 +1,4 @@
-# 💻 SDE Coding Assistant (Gemini)
+# 💻 SDE Coding Agnet Assistant Using Gemini
 
 A powerful AI-powered coding assistant that helps streamline your development workflow through intelligent planning, code generation, and review. Built with Google's Gemini 2.0 Flash model and Streamlit.
 
@@ -229,4 +229,4 @@ For issues, questions, or suggestions:
 
 ---
 
-**Built with ❤️ using Gemini 2.0 Flash**
+**Built by Anand Kumar Vishwakarma*
