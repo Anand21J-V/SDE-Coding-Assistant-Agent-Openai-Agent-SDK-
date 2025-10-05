@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pydantic
+typing-extensions
+aiohttp
+asyncio
+openai-agents
+requests
+tqdm
+-e .
